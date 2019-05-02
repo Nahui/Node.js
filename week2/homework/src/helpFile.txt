@@ -1,0 +1,8 @@
+help: node index.js [...]
+Options:
+ help         - shows current help file
+ list         - view all toDos
+ add          - add a new toDo
+ remove       - remove a toDo with index number
+ reset        - resets toDo list
+
